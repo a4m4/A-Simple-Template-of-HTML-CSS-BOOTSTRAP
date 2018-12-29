@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-136443.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "Lato";
+    color: black;
+}
+
+
+.content {
+	padding-top: 25%;
+	text-align: left;
+	font-family: 'Kalam', cursive;
+}
+
+hr {
+	width: 100%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    align-self: left;
+}
+
+
+
+.navbar{
+			background: url( https://www.walldevil.com/wallpapers/a32/wallpaper-background-wallpapaer-current-bright-description-color.jpg);
+		}
+.navbar-default .navbar-nav>li>a , .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+	font-family: 'Ceviche One', cursive;
+	font-size: 20px;
+	color: white;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+	font-size: 28px;
+	font-family: 'Ceviche One', cursive;
+}
